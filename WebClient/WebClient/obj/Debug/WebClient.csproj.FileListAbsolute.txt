@@ -1,0 +1,10 @@
+d:\backup\documents\visual studio 2013\Projects\WebClient\WebClient\bin\Debug\WebClient.exe.config
+d:\backup\documents\visual studio 2013\Projects\WebClient\WebClient\bin\Debug\WebClient.exe
+d:\backup\documents\visual studio 2013\Projects\WebClient\WebClient\bin\Debug\WebClient.pdb
+d:\backup\documents\visual studio 2013\Projects\WebClient\WebClient\obj\Debug\WebClient.Form1.resources
+d:\backup\documents\visual studio 2013\Projects\WebClient\WebClient\obj\Debug\WebClientStudy.Properties.Resources.resources
+d:\backup\documents\visual studio 2013\Projects\WebClient\WebClient\obj\Debug\WebClient.csproj.GenerateResource.Cache
+d:\backup\documents\visual studio 2013\Projects\WebClient\WebClient\obj\Debug\WebClient.exe
+d:\backup\documents\visual studio 2013\Projects\WebClient\WebClient\obj\Debug\WebClient.pdb
+d:\backup\documents\visual studio 2013\Projects\WebClient\WebClient\bin\Debug\WebClient.exe.CodeAnalysisLog.xml
+d:\backup\documents\visual studio 2013\Projects\WebClient\WebClient\bin\Debug\WebClient.exe.lastcodeanalysissucceeded
